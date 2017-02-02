@@ -19,9 +19,10 @@
 * 5 tbsp Worchestershire Sauce
 
 
-Directions:
-Remove sausage casings and brown well.  Drain grease and add to pot.
-Brown the ground turkey well.  Drain grease and add to pot.
-Add all other ingredients to pot.
-Heat at medium until bubbling with occasional stirring; reduce to simmer.
-Simmer 4 hours, adding 4oz of water as needed.
+### Directions
++ Remove sausage casings and brown well.  Drain grease and add to pot.
++ Brown the ground turkey well.  Drain grease and add to pot.
++ Add all other ingredients to pot.
++ Heat at medium until bubbling with occasional stirring; reduce to simmer.
++ Simmer 4 hours, adding 4oz of water as needed.
+
