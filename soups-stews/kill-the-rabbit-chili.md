@@ -1,7 +1,7 @@
 # Kill the Rabbit Chili
 
 Ingredients:
-* 3 lbs Rabbit, ground (~2 Bunnies)
+* 3 lbs Rabbit, ground (~2 Bunnies, whole)
 * 3 lbs Hot Italian Sausage
 * 3.25 lbs Yellow Onions (finely diced)
 * (4) med. Green Bell Peppers (chopped)
